@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CreatingTestingProjectInGitHub
 {
-    class Program
+    class Demo
     {
         static void Main(string[] args)
         {
