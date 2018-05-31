@@ -21,15 +21,17 @@ namespace ConsoleApplication2
             ////        Console.ReadLine();
             ////    }
             ////}
-            int a = 1, b = 0;
-            try
-            {
-                int c = a / b;
-            }
-            catch (Exception ex)
-            {
-                throw new ExceptionClass(ex.Message);
-            }
+            ////int a = 1, b = 0;
+            ////try
+            ////{
+            ////    int c = a / b;
+            ////}
+            ////catch (Exception ex)
+            ////{
+            ////    throw new ExceptionClass(ex.Message);
+            ////}
+            EmpDetails obj = new EmpDetails(1, "Rajashekar Sirpa", "+ve", 9676952689, "Kondapur");
+            obj.EmpDetails1(true);
         }
     }
 }
