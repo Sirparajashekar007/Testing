@@ -8,7 +8,7 @@ namespace ConsoleApplication2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             ////int[] a = { 10, 5, 1, 15 };
             ////Console.WriteLine("Please enter input");

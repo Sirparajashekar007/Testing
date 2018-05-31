@@ -46,6 +46,7 @@
     <Compile Include="EmpClass.cs" />
     <Compile Include="EmpDetails.cs" />
     <Compile Include="ExceptionClass.cs" />
+    <Compile Include="LinearSearch.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
